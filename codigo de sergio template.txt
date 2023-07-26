@@ -1,0 +1,20 @@
+    <div class="container">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <td>Id</td>
+                        <td>Prercio</td>
+                        <td>Cantidad</td>
+                        <td>Modificar | Eliminar</td>
+                    </tr>
+
+                    <tr>
+                        <td>1</td>
+                        <td>12235</td>
+                        <td>12</td>
+                        <td><a href="#">Modificar</a> | Eliminar</td>
+                    </tr>
+                </thead>
+            </table>
+
+    </div>
